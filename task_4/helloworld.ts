@@ -1,1 +1,2 @@
-console.log("Hello World Typescript!")
+let message: string = 'Hello, World!';
+console.log(message);
