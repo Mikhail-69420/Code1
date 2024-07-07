@@ -41,5 +41,24 @@ Visual:
 
 
 
-This is a change
-now it's change nr.2
+
+Stage:
+    Stage is used to mark changes in your working directory as ready to be committed.
+
+Commit:
+    Commit saves all the staged changes into the local repository and gives unique IDs for each changes.
+
+Fetch:
+    Fetch is used to receive all information on changes from a remote-repository.
+
+Pull:
+    Pull is the combination of fetch and merge, it receives the information on changes from a remote-repository and implements it into the local repository.
+
+Push:
+    Push is used to implement all the commits saved on the local repository onto the remote-repository.
+
+Merge:
+    Merge combines the changes on different branches.
+
+
+
